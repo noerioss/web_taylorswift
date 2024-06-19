@@ -73,9 +73,9 @@ nav a{
     width: 100%;
 }
 
-.h2 {
-    text-decoration: hotpink;
-    text-align: center;
+.titulo_principal{
+    background-color: deeppink;
+    color: blueviolet;
 }
 .padre{ 
     background-color:beige;
